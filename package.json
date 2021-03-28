@@ -1,0 +1,25 @@
+{
+  "name": "media-stream-project",
+  "version": "1.0.0",
+  "description": "- [João Martins](https://www.linkedin.com/in/joao-antonio-martins-filho-cwb/)<br>\r - [Maycon Lesko](https://www.linkedin.com/in/maycon-lesko-96302320/)<br>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoantoniomartinsfilho/media-stream-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaoantoniomartinsfilho/media-stream-project/issues"
+  },
+  "homepage": "https://github.com/joaoantoniomartinsfilho/media-stream-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {}
+}
